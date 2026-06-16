@@ -25,6 +25,7 @@ Electricity bills, Gas bills, Internet bills
 ## 🛠️ Technologies Used
 
 **Programming Language:** C++
+
 **Concepts Used:**
 Functions, Switch Statements, Loops, Conditional Statements, User Input Handling
 
