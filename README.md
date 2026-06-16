@@ -26,8 +26,6 @@ Electricity bills, Gas bills, Internet bills
 
 **Programming Language:** C++
 **Concepts Used:**
-Functions, Switch Statements, Loops, Conditional Statements
-User Input Handling
+Functions, Switch Statements, Loops, Conditional Statements, User Input Handling
 
 
-## 📂 Project Structure
